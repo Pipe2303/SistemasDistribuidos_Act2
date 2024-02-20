@@ -2,17 +2,17 @@
   "users":[
       {
         "id":1,
-        "username":"lololex",
+        "username":"Wizzlord",
         "deck":[1,25,36,544,87]
       },
        {
         "id":2,
-        "username":"waroo",
+        "username":"AcidHunter",
         "deck":[15,253,364,54,800]
       },
       {
         "id":3,
-        "username":"jeje",
+        "username":"JRB1503",
         "deck":[158,315,3,5,80]
       }
     ],
