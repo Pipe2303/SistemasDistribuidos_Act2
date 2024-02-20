@@ -1,0 +1,25 @@
+{
+  "users":[
+      {
+        "id":1,
+        "username":"lololex",
+        "deck":[1,25,36,544,87]
+      },
+       {
+        "id":2,
+        "username":"waroo",
+        "deck":[15,253,364,54,800]
+      },
+      {
+        "id":3,
+        "username":"jeje",
+        "deck":[158,315,3,5,80]
+      }
+    ],
+  "cards":[
+    {
+      "id":1,
+      "class":"common"
+    }
+  ]
+}
